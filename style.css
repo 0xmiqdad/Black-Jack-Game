@@ -1,0 +1,59 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    height: 90vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    color: black;
+    font-size: 35px;
+    font-weight: bolder;
+    background-size: cover;
+    text-align: center;
+    background-image: ;
+}
+
+.gamebox{
+    border: 5px solid green;
+    background-color: yellow;
+    width: 450px;
+    align-items: center;
+    border-radius: 20px;
+}
+
+h1{
+    color: rgb(218, 38, 32);
+    font-size: 35px;
+}
+
+.message-el{
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button{
+    color: yellow;
+    width: 150px;
+    background: green;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 4px;
+    font-weight: bolder;
+}
+
+.per{
+    color: red;
+}
+
+    
+   
+    
